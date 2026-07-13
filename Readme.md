@@ -47,3 +47,12 @@ print(f"你好，{name}！")
 [Python 官方网站](https://www.python.org/)
 
 > 当前目标不是一次学会所有内容，而是先把基本工具跑通。
+
+## 当前进度
+
+- [x] 环境搭建
+- [x] Markdown
+- [x] Python 基础
+- [x] JSON 文件读写
+- [ ] GitHub 远程仓库
+- [ ] 大模型 API
