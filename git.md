@@ -7,5 +7,5 @@
 | `git commit -m "说明“ ` | 创建本地版本 |
 | `git log --oneline` | 查看提交历史 |
 | `git push` | 上传本地提交 |
-| `git pull` | 获取远程更新 |
+| `git pull` | 获取远程更新g |
 | `git remove -v` | 查看远程窗户地址 |
